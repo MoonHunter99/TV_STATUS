@@ -1,6 +1,3 @@
 #create a class called TV
     #function initialization
-    #funtion first behavior
-    #
-    #
-    #
+    #funtion of behaviors
