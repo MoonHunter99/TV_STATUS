@@ -8,7 +8,7 @@ class Tv:
     
     #funtion of behaviors
     def TV(self):
-        tv_number = int(input("What is the number of the TV you want to check?: "))
+        tv_number = str(input("What is the number of the TV you want to check?: "))
         self.tv = tv_number
     def TurnOn(self):
         self.Status = True
